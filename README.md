@@ -1,4 +1,4 @@
-# Multilabel_text_classification-NLP-
+# Multilabel_text_classification-NLP
 
 I can't share my data ,because thats not allowed
 
