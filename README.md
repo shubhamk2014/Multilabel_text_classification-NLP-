@@ -2,5 +2,5 @@
 
 I can't share my data ,because thats not allowed
 
-but ,you can costomize code according to your data
+but ,you can customize code according to your data
 
